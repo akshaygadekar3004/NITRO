@@ -1,0 +1,8 @@
+{
+  "Polygon": "https://polygon-mainnet.infura.io/v3/a7b38e5a731040e1827656abd313ff90",
+  "Avalanche": "https://avalanche-mainnet.infura.io/v3/a7b38e5a731040e1827656abd313ff90",
+  "Optimism": "https://optimism-mainnet.infura.io/v3/a7b38e5a731040e1827656abd313ff90",
+  "Scroll": "https://rpc.scroll.io/",
+  "Base": "https://mainnet.base.org",
+  "Bnb": "https://bsc-dataseed.binance.org/"
+}
