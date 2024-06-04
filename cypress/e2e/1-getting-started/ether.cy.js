@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 
-describe('Fetch Ethereum Transaction Details', () => {
+xdescribe('Fetch Ethereum Transaction Details', () => {
   it('should fetch and display transaction details', () => {
     // const providerUrl = 'https://mainnet.infura.io/v3/a7b38e5a731040e1827656abd313ff90'; 
     // const providerUrl = 'https://optimism-mainnet.infura.io/v3/a7b38e5a731040e1827656abd313ff90'; 

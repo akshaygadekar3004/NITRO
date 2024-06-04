@@ -4,12 +4,14 @@
   "description": "UI automation with Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome --e2e --spec cypress/e2e/1-getting-started/nitro.cy.js",
+    "open": "npx cypress open --browser chrome --e2e"
   },
   "author": "Akshay Gadekar",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.10.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
     "cypress-xpath": "^2.0.1",
     "ethers": "^5.4"
   }
