@@ -4,7 +4,7 @@
   "description": "UI automation with Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --browser chrome --e2e --spec cypress/e2e/1-getting-started/nitro.cy.js",
+    "test": "npx cypress run --browser chrome --e2e --spec cypress/e2e/nitro/",
     "open": "npx cypress open --browser chrome --e2e"
   },
   "author": "Akshay Gadekar",
